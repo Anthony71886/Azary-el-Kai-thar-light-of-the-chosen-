@@ -20,7 +20,7 @@ jobs:
           distribution: 'temurin'
 
       - name: Grant execute permission for Gradlew
-        run: chmod +x android/gradlew
+        run:   wrappedgradel
 
       - name: Build APK
         run: cd android && ./gradlew assembleRelease
