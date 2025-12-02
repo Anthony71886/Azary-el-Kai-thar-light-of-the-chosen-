@@ -1,0 +1,15 @@
+{
+  "short_name": "Azary'el",
+  "name": "Azary'el Flame: Light of the Chosen",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#b33",
+  "icons": [
+    {
+      "src": "/assets/icon.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ]
+}
